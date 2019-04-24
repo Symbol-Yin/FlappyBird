@@ -1,6 +1,6 @@
 # README.md
 ## 使用方法
-terminal輸入localhost，並在瀏覽器網址列輸入localhost即可遊玩
+terminal輸入指令./run.sh，並在瀏覽器網址列輸入localhost即可遊玩
 ## Flapping bird 包含功能
 1. 基本要求：空白鍵飛翔，發出聲音，鳥的顏色以及背景隨機出現
 2. 額外功能：
